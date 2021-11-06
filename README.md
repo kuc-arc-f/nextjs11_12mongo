@@ -39,6 +39,7 @@ yarn dev
 ***
 ### Blog:
 
+https://zenn.dev/knaka0209/books/2f0e049833a8c4/viewer/61c80c
 
 ***
 
